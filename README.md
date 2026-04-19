@@ -39,8 +39,8 @@ Built with Python, Streamlit, DuckDB, and SciPy. Designed to FAANG-quality stand
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/marketplace-experimentation-framework.git
-cd marketplace-experimentation-framework
+git clone (https://github.com/hibdiop/Operations-Impact-Analysis.git)
+cd Operations-Impact-Analysis
 
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
