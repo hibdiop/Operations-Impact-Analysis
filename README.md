@@ -2,7 +2,9 @@
 
 A self-service pre-post impact analysis platform for marketplace operations teams. Enables Operations Managers to independently evaluate the statistical significance of localized interventions — fee waivers, incentive programs, pricing changes, supply campaigns — without requiring dedicated analyst support.
 
-Built with Python, Streamlit, DuckDB, and SciPy. Designed to FAANG-quality standards using entirely open-source tooling.
+Built with Python, Streamlit, DuckDB, and SciPy. 
+
+
 
 ---
 
